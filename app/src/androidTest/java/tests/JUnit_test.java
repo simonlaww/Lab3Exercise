@@ -1,8 +1,10 @@
 package tests;
 
 import android.test.ActivityInstrumentationTestCase2;
+import android.widget.TextView;
 
 import com.android.lab3exercise.MainActivity;
+import com.android.lab3exercise.R;
 
 /**
  * Created by Simon on 4/20/2016.
